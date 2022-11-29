@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mystic-cg/hexo-pwa.git"
+    "url": "https://github.com/amtoaer/hexo-pwa.git"
   },
   "dependencies": {
     "lodash.template": "^4.4.0"
